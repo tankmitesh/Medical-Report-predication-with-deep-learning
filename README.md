@@ -27,7 +27,7 @@ format, XML file contain 4 unique tags as follows.
 3. Findings (depth information as per report)
 4. Impression (generate by comparison and findings)
 
-We will use different state-of-art techniques for this task like CNN, RNN, LSTM
-etc., we will use LSTM with the Attention Model, because the Attention model
+We will use different state-of-art techniques for this task like CNN, RNN, LSTM,GRU
+etc., we will use GRU with the Attention Model, because the Attention model
 mainly focuses on the important words. So it can improve the prediction of report
 text.
